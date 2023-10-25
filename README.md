@@ -1,4 +1,4 @@
-Sure, let's create a `README.md` and `ABOUT.md` for your project.
+![image](https://github.com/piotr-bania/color_picker/assets/83336214/812c1ce9-fc92-40f8-8419-6b88054ba296)
 
 ### README.md
 ```markdown
